@@ -10,7 +10,9 @@ A couple degree's later, I have the skills I need to create beautiful, elegant a
 - AWS
 - API INTEGRATION
 
-I always strive to put my best work in every project I do. For more details on my experience, check out my resume!
+I always strive to put my best work in every project I do. For more details on my experience, check out my [portfolio](https://yuwebdesign.carrd.co/)!
+
+[Interactive Portfolio](https://gameportfolio-dusky.vercel.app/)
 <!--
 **yugi-1/yugi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
